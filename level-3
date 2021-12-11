@@ -1,0 +1,14 @@
+
+-- # 1 Copy Floor --
+-- # 1 Pt-Br: Andar de Cópias  --
+-- Size/Concisão -- 6 / 6
+-- Speed/Velocidade -- 6 / 6
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    COPYFROM 4
+    OUTBOX  
+    COPYFROM 0
+    OUTBOX  
+    COPYFROM 3
+    OUTBOX  
+
