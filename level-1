@@ -1,0 +1,15 @@
+
+-- # 1 Mail Room --
+-- # 1 Pt-Br: Sala de Correio  --
+-- Size/Concisão -- 6 / 6
+-- Speed/Velocidade -- 6 / 6
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    INBOX   
+    OUTBOX  
+    INBOX   
+    OUTBOX  
+    INBOX   
+    OUTBOX  
+
+
