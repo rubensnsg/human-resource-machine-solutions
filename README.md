@@ -23,5 +23,5 @@ https://atesgoral.github.io/hrm-solutions/
 | #   | Level Name      | Nome Pt-Br         | Size/Concisão | Speed/Velocidade |
 | --- | --------------- | ------------------ | ------------- | ---------------- |
 | 1   | Mail Room       |  Sala de Correio   | 6 / 6         | 6 / 6 |
-| 2   | Busy Mail Room  |  Correio Expresso  | 3 / 3         | 3 / 3 |
+| 2   | Busy Mail Room  |  Correio Expresso  | 3 / 3         | 30 / 25 |
 | 3   | Copy Floor      |  Andar de Cópias   | 6 / 6         | 6 / 6 |
