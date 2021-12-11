@@ -1,0 +1,13 @@
+
+-- # 2 Busy Mail Room --
+-- # Pt-Br: 2 Correio Expresso  --
+-- Size/Concisão -- 3 / 3
+-- Speed/Velocidade -- 30 / 25
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    OUTBOX  
+    JUMP     a
+
+
