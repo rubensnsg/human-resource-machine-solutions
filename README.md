@@ -25,10 +25,10 @@ https://atesgoral.github.io/hrm-solutions/
 | 1   | Mail Room                        |  Sala de Correio                      | 6 / 6         | 6 / 6 |
 | 2   | Busy Mail Room                   |  Correio Expresso                     | 3 / 3         | 30 / 25 |
 | 3   | Copy Floor                       |  Andar de Cópias                      | 6 / 6         | 6 / 6 |
-| 4   | Scrambler Handler                |  Sala de Permutações                  | 6 / 6         | 6 / 6 |
+| 4   | Scrambler Handler                |  Sala de Permutações                  | 7 / 7         | 21 / 21 |
 | 5   | Coffee break                     |  Pausa para café                      | ------------- | ---------------- |
-| 6   | Rainy Summer                     |  Verão Chuvoso                        | 6 / 6         | 6 / 6 |
-| 7   | Zero Exterminator                |  Exterminador de Zeros                | 6 / 6         | 6 / 6 |
+| 6   | Rainy Summer                     |  Verão Chuvoso                        | 6 / 6         | 24 / 24 |
+| 7   | Zero Exterminator                |  Exterminador de Zeros                | 4 / 4         | 23 / 23 |
 | 8   | Tripler Room                     |  Sala de Triplicadora                 | 6 / 6         | 6 / 6 |
 | 9   | Zero Preservation Initiative     |  Iniciativa de Preservação de Zeros   | 6 / 6         | 6 / 6 |
 | 10  | Octoplier Suite                  |  Suíte Octuplicante                   | 6 / 6         | 6 / 6 |
