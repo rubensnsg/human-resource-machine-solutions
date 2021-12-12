@@ -1,0 +1,16 @@
+
+-- # 1 Rainy Summer --
+-- # Pt-Br: 1 Verão Chuvoso  --
+-- Size/Concisão -- 6 / 6
+-- Speed/Velocidade -- 24 / 24
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+    INBOX   
+    ADD      0
+    OUTBOX  
+    JUMP     a
+
+
