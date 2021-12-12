@@ -1,0 +1,17 @@
+
+-- # 4 Scrambler Handler --
+-- # Pt-Br: 4 Sala de Permutações --
+-- Size/Concisão -- 7 / 7
+-- Speed/Velocidade -- 21 / 21
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+    INBOX   
+    OUTBOX  
+    COPYFROM 0
+    OUTBOX  
+    JUMP     a
+
+
