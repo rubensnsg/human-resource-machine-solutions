@@ -32,10 +32,10 @@ https://atesgoral.github.io/hrm-solutions/
 | 8   | Tripler Room                     |  Sala de Triplicadora                 | 6 / 6         | 24 / 24 |
 | 9   | Zero Preservation Initiative     |  Iniciativa de Preservação de Zeros   | 5 / 5         | 25 / 25 |
 | 10  | Octoplier Suite                  |  Suíte Octuplicante                   | 9 / 9         | 36 / 36 |
-| 11  | Sub Hallway                      |  Subcorredor                          | 6 / 6         | 6 / 6 |
-| 12  | Tetracontiplier                  |  Quarentuplicador                     | 6 / 6         | 6 / 6 |
-| 13  | Equalization Room                |  Sala de Equalização                  | 6 / 6         | 6 / 6 |
-| 14  | Maximization Room                |  Sala de Maximização                  | 6 / 6         | 6 / 6 |
+| 11  | Sub Hallway                      |  Subcorredor                          | 10 / 10       | 40 / 40 |
+| 12  | Tetracontiplier                  |  Quarentuplicador                     | 14 / 14       | 56 / 56 |
+| 13  | Equalization Room                |  Sala de Equalização                  | 9 / 9         | 28 / 27 |
+| 14  | Maximization Room                |  Sala de Maximização                  | 10 / 10       | 31 / 31 |
 | 15  | Employee Morale Insertion        |  Otimização de Moral da Equipe        | ------------- | ---------------- |
 | 16  | Absolute Positivity              |  Positividade Absoluta                | 6 / 6         | 6 / 6 |
 | 17  | Exclusive Lounge                 |  Saguão Exclusivo                     | 6 / 6         | 6 / 6 |
