@@ -40,8 +40,8 @@ https://atesgoral.github.io/hrm-solutions/
 | 16  | Absolute Positivity              |  Positividade Absoluta                | 8 / 8         | 34 / 36 |
 | 17  | Exclusive Lounge                 |  Saguão Exclusivo                     | 21 / 12       | 67 / 28 |
 | 18  | Sabbatical Beach Paradise        |  Paraíso Sabático na Praia            | ------------- | ---------------- |
-| 19  | Countdown                        |  Contagem Regressiva                  | 6 / 6         | 6 / 6 |
-| 20  | Multiplication Workshop          |  Oficina de Multiplicação             | 6 / 6         | 6 / 6 |
+| 19  | Countdown                        |  Contagem Regressiva                  | 10 / 10       | 83 / 82 |
+| 20  | Multiplication Workshop          |  Oficina de Multiplicação             | 20 / 15       | 118 / 109 |
 | 21  | Zero Terminated Sum              |  Soma Terminada em Zero               | 6 / 6         | 6 / 6 |
 | 22  | Fibonacci Visitor                |  Gerador Fibonacci                    | 6 / 6         | 6 / 6 |
 | 23  | The Littlest Number              |  O Menor Número                       | 6 / 6         | 6 / 6 |
