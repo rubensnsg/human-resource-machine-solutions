@@ -37,8 +37,8 @@ https://atesgoral.github.io/hrm-solutions/
 | 13  | Equalization Room                |  Sala de Equalização                  | 9 / 9         | 28 / 27 |
 | 14  | Maximization Room                |  Sala de Maximização                  | 10 / 10       | 31 / 31 |
 | 15  | Employee Morale Insertion        |  Otimização de Moral da Equipe        | ------------- | ---------------- |
-| 16  | Absolute Positivity              |  Positividade Absoluta                | 6 / 6         | 6 / 6 |
-| 17  | Exclusive Lounge                 |  Saguão Exclusivo                     | 6 / 6         | 6 / 6 |
+| 16  | Absolute Positivity              |  Positividade Absoluta                | 8 / 8         | 34 / 36 |
+| 17  | Exclusive Lounge                 |  Saguão Exclusivo                     | 21 / 12       | 67 / 28 |
 | 18  | Sabbatical Beach Paradise        |  Paraíso Sabático na Praia            | ------------- | ---------------- |
 | 19  | Countdown                        |  Contagem Regressiva                  | 6 / 6         | 6 / 6 |
 | 20  | Multiplication Workshop          |  Oficina de Multiplicação             | 6 / 6         | 6 / 6 |
