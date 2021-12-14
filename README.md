@@ -29,9 +29,9 @@ https://atesgoral.github.io/hrm-solutions/
 | 5   | Coffee break                     |  Pausa para café                      | ------------- | ---------------- |
 | 6   | Rainy Summer                     |  Verão Chuvoso                        | 6 / 6         | 24 / 24 |
 | 7   | Zero Exterminator                |  Exterminador de Zeros                | 4 / 4         | 23 / 23 |
-| 8   | Tripler Room                     |  Sala de Triplicadora                 | 6 / 6         | 6 / 6 |
-| 9   | Zero Preservation Initiative     |  Iniciativa de Preservação de Zeros   | 6 / 6         | 6 / 6 |
-| 10  | Octoplier Suite                  |  Suíte Octuplicante                   | 6 / 6         | 6 / 6 |
+| 8   | Tripler Room                     |  Sala de Triplicadora                 | 6 / 6         | 24 / 24 |
+| 9   | Zero Preservation Initiative     |  Iniciativa de Preservação de Zeros   | 5 / 5         | 25 / 25 |
+| 10  | Octoplier Suite                  |  Suíte Octuplicante                   | 9 / 9         | 36 / 36 |
 | 11  | Sub Hallway                      |  Subcorredor                          | 6 / 6         | 6 / 6 |
 | 12  | Tetracontiplier                  |  Quarentuplicador                     | 6 / 6         | 6 / 6 |
 | 13  | Equalization Room                |  Sala de Equalização                  | 6 / 6         | 6 / 6 |
