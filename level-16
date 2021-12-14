@@ -1,0 +1,20 @@
+
+-- # 16 Absolute Positivity --
+-- # Pt-Br: 16 Positividade Absoluta --
+-- Size/Concisão -- 8 / 8
+-- Speed/Velocidade -- 34 / 36
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    JUMP     c
+a:
+    COPYTO   0
+    SUB      0
+    SUB      0
+b:
+    OUTBOX  
+c:
+    INBOX   
+    JUMPN    a
+    JUMP     b
+
+
