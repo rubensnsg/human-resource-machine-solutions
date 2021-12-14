@@ -1,0 +1,16 @@
+
+-- # 9 Zero Preservation Initiative --
+-- # Pt-Br: 9 Iniciativa de Preservação de Zeros --
+-- Size/Concisão -- 5 / 5
+-- Speed/Velocidade -- 25 / 25
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    JUMP     c
+a:
+    OUTBOX  
+b:
+c:
+    INBOX   
+    JUMPZ    a
+    JUMP     b
+
