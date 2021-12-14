@@ -1,0 +1,19 @@
+
+-- # 10 Octoplier Suite --
+-- # Pt-Br: 10 Suíte Octuplicante --
+-- Size/Concisão -- 9 / 9
+-- Speed/Velocidade -- 36 / 36
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+    ADD      0
+    COPYTO   0
+    ADD      0
+    COPYTO   0
+    ADD      0
+    OUTBOX  
+    JUMP     a
+
+
