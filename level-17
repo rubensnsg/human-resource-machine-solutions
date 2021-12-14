@@ -1,0 +1,40 @@
+
+-- # 17 Exclusive Lounge --
+-- # Pt-Br: 17 Saguão Exclusivo --
+-- Size/Concisão -- 21 / 12
+-- Speed/Velocidade -- 67 / 28
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    JUMP     c
+b:
+    COPYFROM 5
+    JUMP     d
+c:
+    INBOX   
+    JUMPN    b
+    COPYFROM 4
+d:
+    COPYTO   1
+    JUMP     f
+e:
+    COPYFROM 5
+    JUMP     g
+f:
+    INBOX   
+    JUMPN    e
+    COPYFROM 4
+g:
+    COPYTO   0
+    SUB      1
+    JUMPZ    h
+    JUMP     j
+h:
+i:
+    OUTBOX  
+    JUMP     a
+j:
+    COPYFROM 5
+    JUMP     i
+
+
