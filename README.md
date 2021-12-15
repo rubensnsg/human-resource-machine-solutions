@@ -45,12 +45,12 @@ https://atesgoral.github.io/hrm-solutions/
 | 21  | Zero Terminated Sum              |  Soma Terminada em Zero               | 16 / 10       | 109 / 72 |
 | 22  | Fibonacci Visitor                |  Gerador Fibonacci                    | 25 / 19       | 128 / 156 |
 | 23  | The Littlest Number              |  O Menor Número                       | 17 / 13       | 97 / 75 |
-| 24  | Mod Module                       |  Módulo Modular                       | 6 / 6         | 6 / 6 |
-| 25  | Cumulative Countdown             |  Contagem Regressiva Cumulativa       | 6 / 6         | 6 / 6 |
+| 24  | Mod Module                       |  Módulo Modular                       | 12 / 12       | 57 / 57 |
+| 25  | Cumulative Countdown             |  Contagem Regressiva Cumulativa       | 7 / 7         | 21 / 21 |
 | 26  | Small Divide                     |  Divisão Menor                        | 21 / 15       | 131 / 76 |
 | 27  | Midnight Petroleum               |  Petróleo Noturno                     | ------------- | ---------------- |
 | 28  | Three Sort                       |  Trios Ordenados                      | 38 / 34       | 96 / 78 |
-| 29  | Storage Floor                    |  Estoque de Números                   | 6 / 6         | 6 / 6 |
+| 29  | Storage Floor                    |  Estoque de Números                   | 5 / 5         | 25 / 25 |
 | 30  | String Storage Floor             |  Estoque de Sequências                | 6 / 6         | 6 / 6 |
 | 31  | String Reverse                   |  Sequência Inversa                    | 6 / 6         | 6 / 6 |
 | 32  | Inventory Report                 |  Relatório de Inventário              | 6 / 6         | 6 / 6 |
