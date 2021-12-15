@@ -1,0 +1,51 @@
+
+-- # 24	Mod Module --
+-- # Pt-Br: 24 Módulo Modular --
+-- Size/Concisão -- 12 / 12
+-- Speed/Velocidade -- 57 / 57
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+    INBOX   
+    COPYTO   1
+    COPYFROM 0
+b:
+    SUB      1
+    JUMPZ    d
+    JUMPN    c
+    JUMP     b
+c:
+    ADD      1
+d:
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 0
+eJwTYmBgWCisc4FdUn21jMLREGWlPA8j9ZycRxosTRaaU6c56qzc66hjfNFFV+zsPL39B1YZTZ3GZfa+
+7ozthsB6h0hXoHYGVfvHRxloAH5lyK9izrk+f3Puibkgfkd12o3uGpf1dvXJ/SC+4fRds6snT52W1tM+
+hbNr7vTgtnsLlrVKrAxonb07uO3q4cgOhlM83cYXT0zIvak9tfq23rS0G7enrdw7fY5K0qy53T6z5qrZ
+uc/jtAKZVb3+6cLq9efnVaw7MTd/9Ym5+1den5+0/PeSNYsTNwcs5D8TsLD5TvCiS88zVvJ8UFrH8+HK
+hu9vJmxb/vDtjpJbc3eJnZ276+phWoTBKBgFtAYAr9V1bw;
+
+DEFINE LABEL 1
+eJzzY2Bg4DXntEo27/aJMonLYjFZW7rE4Mvi2bqtOz7qbtiXbL5h30mbRXseuZRte+0etNHLW311bOCS
+GcnB0X17Qm5W7wkpzhUIcUyb7alm98jljekZ26cmu8xPGIQYTdUEGs0wMcm882HCkhlG8XXbQfzk/L8N
+/AVSrfwF+Vv3FGzYd7Q4f+uU+ue1ILllrWcPLWtt3bG2nWnZ2vaQXpDYrLl2XX0z7bruTfftuTqlYlLd
+lCUz7k2XWDlltsTKD3P11ixeULd98YKVe6fPuXPkaP+dIyA9Vtui+x5u8e3R2ODbI7G6YXLOqqnThFYy
+LctYOXt3zqoN+y6uv3q4d+udI847W3d47ZZY6bX73oJZO1fPfL4ta8K9zRB7+Y+wn046nNwPYu8/yrVc
+9Nj1+YqnQnqtLvn2OFyJ7mOgIVhwPbn/87W5060uvVl06BjXcqGj8qve7ojcZLu9bvvWQz9PyJ2Mu95y
+buK99vPLH9LSHaNgZAAAbeSuGA;
+
+DEFINE LABEL 3
+eJxLZ2BgUFCsvn1VpWenhWZx7gutH9EeepN9Vxm1eCeYdfvkWG0POmZ9JUze9kd0pZ1jWqWdZnuxTXL/
+Xoup02bozJ0O1M7Qp7lplp32wTkL9fO37jIPvyZsWXLrhuPpZ09db71Y4nPrxYaArY8FQkpulUbu2K8U
+lbhZPtJlfU6Y/KrkYImVbIGRm5gDjh2MCuA/wxUUfi0tpOvusfCJ90wTJt6bklx92ys94GpAptjZ2NzE
+zcn5TxfuKbi3oLRUffXtqkV7zGsfHzWvVTnfWhV3XbW8665w4cR7m3Orb2tXVt+e2xR+bXGL1SWGdoZT
+8V35W3P6pFpz+n5Ei/atCEjrEbcR7eNpPtTXPuVo//l5JyZs2HdigtWl0xNzb6pOzr1pOP3x0c/zbNbF
+L7s+X3TVwTkxS+8tYFjMtGzZQr01AQtfHVuzWOV8zFKrS/mrw69d3xh+bdbOx0fn7tqwb+6uxM1vd3xZ
+/HzbplmGm7MmXFzv1i2x2rxzz4qsCfwr5k7nX3FvgdDK30tU139ZvHjPkhk8hwsn7jlSOPHQseg+UDie
+LPFyflUvYO0yd6ee1TY7WYZRMAroAACeQ87A;
+
