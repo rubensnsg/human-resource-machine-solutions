@@ -1,0 +1,57 @@
+
+-- # 23	The Littlest Number --
+-- # Pt-Br: 23 O menor Número --
+-- Size/Concisão -- 17 / 13
+-- Speed/Velocidade -- 97 / 75
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+b:
+c:
+    INBOX   
+    JUMPZ    e
+    COPYTO   1
+    SUB      0
+    JUMPN    d
+    COPYFROM 0
+    COPYTO   3
+    JUMP     b
+d:
+    COPYFROM 1
+    COPYTO   0
+    COPYTO   3
+    JUMP     c
+e:
+    COPYFROM 3
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 0
+eJyrZGBgWCgse85DaMM+V8F7C+YJbS37J/o/Jl3G2SlXTs1OQVHNrlJJ115HNdL1kca+4NfaHukeeuad
+8/TUV7/WVjn/Wjvg6gstx8tAYxiWi66eKWa1eiaInWDGcCrNguGUjqPnlb++AVcFQmTPyUeePXQ1Jn+r
+XXLWhHcpnQUuqSsC3qV0+0xJzvO4F5/uDtIX7t/tY5rQ7ePeZOIA4s9KlV/lmCK4YnqK6drv6ccORuU4
+Xt6ZX3JLuLD69vmyklutVbLnumvOHuqrbd3xpPbgnL5aruUT68q2Tak/dvBjI/tphnaGU5xdZw/t7J69
+W7RPcEV+/5fFRRMOzimd+HuJ6mT+MxpTZM9pTDG+2DjV6tKTmToXIpdM3hW/LGNL0Rr11RfXC64w2SK4
+omKd3hrRVYmb96+cvTtn1dlDRWteHTu99tUxjQ3sp29vEjvrvFPsbPA+hlM7Dh87uP/o5F2ixxI37zni
+sv7DznsLHm45Mbd98/l5J9borQH5Z+sh07VCRxM3V5z6eeLKGdlzvRetLrlds7r084bK+X0PF+2ReJy/
+tfyZ/KoHb3x73n6YUPj2w8eo3rfp7rqvOK0uPr9rfPrpXWOJx7/MMx7K2269l+ex5jZf/P9b1Xn/bx2c
+E3PXZT3/g9Ydoo9m777+cv+BB2/2H3D+eOcIwygYBXgAALdn9Vs;
+
+DEFINE LABEL 1
+eJwzZmBgKJD3z5BRqPU6oyhve1XlrvFH3amaIUb1alxmhSqZlhWqMjaLtU/anDAos3V2qnfQTr7qsKdc
+1d6tu9jm4JzNpi7rvfUX7ZmqfezgJWX20xslPK9Y8DbfMeIuudXJzXDKgnfl3ncCGVuWiARtZJf03iCj
+sGHfI43cm1Emml9yrOy/V9qJfLznPOM+0BkMXum3XizPbL7Dk5+xpbR06rTzZdF91eVSrXUVPM33qjfN
+mlK//8Cy1gUPmDssvjF3GF/c3Llhn2jf04Wqk+26tKdKtTKMglEwCkgGAJNYV20;
+
+DEFINE LABEL 3
+eJyLYQAC/4wtIGoqf8BVP5Evi2Mlb1aLydV6HZOf7KugeDTkknJYZpOqZvtN1RNz76gJrujT/L1klVFc
+1i7zFQEnbZydul0ErC1cvZzvOa8IuGR/fl6l3cq9lXY6F0BmsgWmZrMFmq4FsZODJxT+zfTPALEzQ5P7
+5SMrJhnFV0wC8TcEmK4VC8vYIh9Zts00oWzb8kyX9SDxo8Ub9p0sqdteWrpkRmmpf4ZSmWXqpfKwzO4a
+4Rb3psTNXs1XDy9ukT23rPXx0Q0d3+p5uh3TQPpezb5UdWny1GmnJ3Itl584eZfGFLGzN6YaX3wy0/OK
+y1zPK74LdC6sXPTpePwy9dUZK0/MlVhdMenEGpamE2v2lEuvWVaSs2pG0ZrFM4pA5jyc8a0eZOaEbZ+O
+v9r++OjnXbN3B+zVWxO2v2LS/303q5ftLc5dsBvir//7/jYwH/hWv+ngnvLUI035FaeMUtrPG6U8ueiY
+5nClOo9hFIyCQQYAA02oCQ;
+
