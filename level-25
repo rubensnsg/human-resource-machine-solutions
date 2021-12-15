@@ -1,0 +1,48 @@
+
+-- # 25 Cumulative Countdown --
+-- # Pt-Br: 25 Contagem Regressiva Cumulativa --
+-- Size/Concisão -- 7 / 7
+-- Speed/Velocidade -- 21 / 21
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    JUMPZ    d
+    COPYTO   0
+b:
+    COPYTO   4
+    BUMPDN   0
+    JUMPZ    c
+    ADD      4
+    JUMP     b
+c:
+    COPYFROM 4
+d:
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 0
+eJxLYmBgeKSRuNlaS37Va+1v9Qv1H0WEGKW7hxvneQhYnKo8bFW3vcw24OoZW832S/Yyia1O24OAWhhu
+V62emV88d3pA5tzp71JOzJ2Y9GaRRaL6aotE7w1PEsu2fUzdsZ8z7+phsaKrhyWL9x9QLT84R6Pi/Lyr
+Fd4bDKuPHXxSy376bYPxxc2dxhcl+z8dr568cu/taTbrJs4qnPh81qMIq1mz/Kxm2ThazVJJ+jBX5wLD
+4q2P96/c+0R6zcR7cmutLimty9iitK59ysX1Luu1N7buuL1p8q7n23p2ztqZseXzLpf1vnvap/zfd/bQ
++gOOl5MO61y4eDpjS+9FpmWe15fM+H+rb+rna0tmPLn4dGHXBaZlXRdM1364mrFl2c2MLcG3vDcE3zo/
+7/+tXbNZ7x6cE3NXb82+h7k3C59sfVz+bOvj6y+rb5u/FTv74eOxgz+/eG9g/SnckvR7QmHqn+1BfH8q
+VGN+9mmEft+kO+dTi3f7a6lWg9cH59x9zbX8w8c7R/5/c7zM8Wv5w///T78ChWFaj0d6xaSwzA9zwzIZ
+RsEoGCAAADOs20s;
+
+DEFINE LABEL 4
+eJyrYmBgeCewY/9Hwf0HVol9WZwlK5OorOTlrKmS4PZIgy/eRZel6Yve1Gl/DQVXsJuWbeMy69nJa966
+Q97WoOOqA1+8tZu4zTuPA/ofPTfpAo1iOBZet10y3GadZPjhitJIvvhL0duDHiaYOLinvTH1zbhrvDb7
+qcmhoithR4tFE4pKZhRJFj+o2VOg2BaWnTVhSUbD5Hvxq2fejlsyozUuub8p1rfHOunE3I+pkZvCsl8d
+25DDfjqz0PjimVLji5fKVc67NC7a86vFZf2vll2zfVuWzHBvWjJDu9J0bV2F94arFYv26FUdO2hXz39m
+Q0fc9Z3dcddF+xwvV09etOfV7Oi+NYvVV7Mtzd8as/Tq4fVLxM6GLTa+6Lsg4OrDGQFXP8xtvtO1pfnO
+lO1x12ftNL64YPedI992C67w2n1wjvPOkN7n26L7zLc2TDbZAnTrJomVLZuOHXy4Je76q+3LH3rtfvhy
+5b7vb9gOfn8Tf2jdox2HXx3bfzRxs+gxiZX7j4b0Ch0179xxWLN96yG7rq2HKibxH+mbevT4plnaZ3fN
+bjzLf+bWudybd89X335wofq2+cXZu59fMl3rfPX3Eta77VM47rVP2XFfflXqg62PRR/xfJB4rPT59FOl
+z9dffn9j8gao543xxQdvenbefX1wjsHrudOvvJg73eTNrtnxv1bPZBgFowAHAAC9Wwnc;
+
+
+
+
