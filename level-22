@@ -1,0 +1,37 @@
+
+-- # 22 Fibonacci Visitor --
+-- # Pt-Br: 22 Gerador Fibonacci --
+-- Size/Concisão -- 25 / 19
+-- Speed/Velocidade -- 128 / 156
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+    COPYFROM 9
+    COPYTO   2
+    BUMPUP   2
+    COPYTO   3
+    OUTBOX  
+    COPYFROM 2
+    OUTBOX  
+    COPYFROM 3
+    ADD      3
+    COPYTO   4
+b:
+    COPYFROM 3
+    COPYTO   2
+    COPYFROM 4
+    OUTBOX  
+    COPYFROM 4
+    COPYTO   3
+    ADD      2
+    COPYTO   4
+    COPYFROM 0
+    SUB      4
+    JUMPN    c
+    JUMP     b
+c:
+    JUMP     a
+
+
