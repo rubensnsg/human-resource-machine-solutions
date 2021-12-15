@@ -1,0 +1,15 @@
+
+-- # 29 Storage Floor --
+-- # Pt-Br: 29 Estoque de Números --
+-- Size/Concisão -- 7 / 7
+-- Speed/Velocidade -- 21 / 21
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   12
+    COPYFROM [12]
+    OUTBOX  
+    JUMP     a
+
+
