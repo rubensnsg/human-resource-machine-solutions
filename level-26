@@ -1,0 +1,73 @@
+
+-- # 26 Zero Terminated Sum --
+-- # Pt-Br: 26 Divisão Menor --
+-- Size/Concisão -- 21 / 15
+-- Speed/Velocidade -- 131 / 76
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+    COPYTO   0
+    COPYTO   3
+b:
+    JUMPZ    c
+    BUMPDN   3
+    JUMP     b
+c:
+    INBOX   
+    COPYTO   1
+    COPYFROM 0
+d:
+    SUB      1
+    JUMPZ    f
+    JUMPN    e
+    COPYTO   2
+    BUMPUP   3
+    COPYFROM 2
+    JUMP     d
+e:
+    COPYFROM 3
+    JUMP     g
+f:
+    BUMPUP   3
+g:
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 0
+eJwTYmBgWCisc4FdUn21jMLREGWlPA8j9ZycRxosTRaaU6c56qzc66hjfNFFV+zsPL39B1YZTZ3GZfa+
+7ozthsB6h0hXoHYGVfvHRxloAH5lyK9izrk+f3Puibkgfkd12o3uGpf1dvXJ/SC+4fRds6snT52W1tM+
+hbNr7vTgtnsLlrVKrAxonb07uO3q4cgOhlM83cYXT0zIvak9tfq23rS0G7enrdw7fY5K0qy53T6z5qrZ
+uc/jtAKZVb3+6cLq9efnVaw7MTd/9Ym5+1den5+0/PeSNYsTNwcs5D8TsLD5TvCiS88zVvJ8UFrH8+HK
+hu9vJmxb/vDtjpJbc3eJnZ276+phWoTBKBgFtAYAr9V1bw;
+
+DEFINE LABEL 1
+eJzzY2Bg4DXntEo27/aJMonLYjFZW7rE4Mvi2bqtOz7qbtiXbL5h30mbRXseuZRte+0etNHLW311bOCS
+GcnB0X17Qm5W7wkpzhUIcUyb7alm98jljekZ26cmu8xPGIQYTdUEGs0wMcm882HCkhlG8XXbQfzk/L8N
+/AVSrfwF+Vv3FGzYd7Q4f+uU+ue1ILllrWcPLWtt3bG2nWnZ2vaQXpDYrLl2XX0z7bruTfftuTqlYlLd
+lCUz7k2XWDlltsTKD3P11ixeULd98YKVe6fPuXPkaP+dIyA9Vtui+x5u8e3R2ODbI7G6YXLOqqnThFYy
+LctYOXt3zqoN+y6uv3q4d+udI847W3d47ZZY6bX73oJZO1fPfL4ta8K9zRB7+Y+wn046nNwPYu8/yrVc
+9Nj1+YqnQnqtLvn2OFyJ7mOgIVhwPbn/87W5060uvVl06BjXcqGj8qve7ojcZLu9bvvWQz9PyJ2Mu95y
+buK99vPLH9LSHaNgZAAAbeSuGA;
+
+DEFINE LABEL 2
+eJzrZGBguMbhePkaB0/zTU7/DFOe/zH2/FfC/onWeu2SdnaSUVCzU1M2cdBRjXS9r34lzFTjcMVVFfPO
+MsWGyWJyS2awSKye2c97ft41jvPzdDh3zdbn2jSrk/v6fGu+yE0LhTfs2yJ59fBJhVfHWtVeHbPQvHNk
+hs7+A/P0enZ662ds8db/svidzr0FU7XvLXiqKb/qqeaiPS+0fp54p2N1aZ6e55XNpp5XJK0ZTl2yX7m3
+20Vi5Qu31TPfeSyZscpPffXmwNm7NwfeObLWX+W8u1fAVWu3uOvJweHX8sM9r9yI1blgmsB/5mHCzxNT
+klt3TE+xWeeY0jf1SeLUaffiV880ir8+3yie/XR3gs6FiUmOlzfnWl2SL/154kZlxpbumqnTumvMOzuq
+/zZcKgdhg466Ct+epsqQ3oc1yf3fm5P7mTvsutg6fXvYOt8sWtV29tCGDoZTR/uNL8pPNL6oOvnniZZp
+GVvc5xVODF5k3sm5zK07dUXWBNFVu2bnrw7aeHS12FlgkDNIr9G5cGJN+LVz69JuaG9Mu2GyJeDqsr1X
+Dycdzt8qeuzNov1HCyduPeTbE7bftydgb8PkZXvnTmc+sGv29bObZn24mjVh8Y3k/mU3Q3rX3I7uW3A9
+ud/2MtB/F58ufHJxx/7Jlz8d97wue471rs4F/gdiZ48+Pnvo3LPITeovJFbWvVgyQ/FZxaSjj5P7V94K
+6Q27bdcVc9egQ+KxQcfpp1kTrrz4veTKi0V7Gl/uP/D4LcOpz5/YTzOMgmENAFNtH2E;
+
+DEFINE LABEL 3
+eJzzYmBgeCeQduOdwJtFX4RYmn4Is8f9FjkaEiia57FKTM0uSoLJcpf0XeMziicMLimfN5yqne7+Tmey
+72zds6GzdY1S3ul4pD/SyMk5Jl+cmy7TlM8iUZ2XLK3Ydkx+1+wvemk3lhs232Exab5z2Mr4Ypktw6l6
+hw37mhy9N6jaq6+WsZFfJWblsn6vxezdaRZiZ3OsAq5qOjTfaXXquuvo0XX3r2/c9Z3B/GdORszefT7K
+e4N27K7ZHfHn563KWrl3W57OhYQ8zyvMOWk3pqfMuK8du/VxWHbc9eryO0cMqxftWdC8a/aCZu8Nb2v/
+/wd6keFe9f//JjXGF1/Vz97t26K3Jqbz+nz+nvPzlCb9XnJvuulakxmJm+9N/3S8ZZrsOdXJcddz+hY8
+2Na1/CFI74e5Wx8zjIJRMEwBAHRSjfg;
+
