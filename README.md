@@ -42,8 +42,8 @@ https://atesgoral.github.io/hrm-solutions/
 | 18  | Sabbatical Beach Paradise        |  Paraíso Sabático na Praia            | ------------- | ---------------- |
 | 19  | Countdown                        |  Contagem Regressiva                  | 10 / 10       | 83 / 82 |
 | 20  | Multiplication Workshop          |  Oficina de Multiplicação             | 20 / 15       | 118 / 109 |
-| 21  | Zero Terminated Sum              |  Soma Terminada em Zero               | 6 / 6         | 6 / 6 |
-| 22  | Fibonacci Visitor                |  Gerador Fibonacci                    | 6 / 6         | 6 / 6 |
+| 21  | Zero Terminated Sum              |  Soma Terminada em Zero               | 16 / 10       | 109 / 72 |
+| 22  | Fibonacci Visitor                |  Gerador Fibonacci                    | 25 / 19       | 128 / 156 |
 | 23  | The Littlest Number              |  O Menor Número                       | 6 / 6         | 6 / 6 |
 | 24  | Mod Module                       |  Módulo Modular                       | 6 / 6         | 6 / 6 |
 | 25  | Cumulative Countdown             |  Contagem Regressiva Cumulativa       | 6 / 6         | 6 / 6 |
