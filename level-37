@@ -1,0 +1,25 @@
+
+-- # 37 Scavenger Chain --
+-- # Pt-Br: 37 Sequência Codificada --
+-- Size/Concisão -- 8 / 8
+-- Speed/Velocidade -- 63 / 63
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+b:
+    COPYTO   7
+    COPYFROM [7]
+    OUTBOX  
+    BUMPUP   7
+    COPYFROM [7]
+    JUMPN    a
+    JUMP     b
+
+
+DEFINE LABEL 7
+eJxTYWBg6C06cuBJ0brFH0rEKpeUpaStr3gUkVld6ptfk+h9prbU91Ld8qBLdY8i9Bvckqc3/139q3XO
+nnXtnbtO97BO2jHjZnjazOVBO2b8cwAaxfDuwI4lR09cW85/7dpyEH/RodtF+679LAWx43Uz5sgb1szb
+alMzD8T307JJOmtolJhiG5UK4i/QNJ/OQCaYvOHR4d715Zfb1zVeaVprfRYkpjb3Y/+T9c/7yDVzFIyC
+kQAAH0BQRQ;
+
