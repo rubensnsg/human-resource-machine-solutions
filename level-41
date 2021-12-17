@@ -1,0 +1,37 @@
+
+-- # 41 Sorting-Floor --
+-- # Pt-Br: 41 Andar de Ordenação --
+-- Size/Concisão -- 20 / 34
+-- Speed/Velocidade -- 648 / 714
+-- solved by @mrflip --
+-- https://github.com/atesgoral/hrm-solutions/blob/master/solutions/41-Sorting-Floor-34.714/20.648.selection-mrflip.asm --
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+b:
+    BUMPUP   24
+    INBOX   
+    JUMPZ    d
+    COPYTO   [24]
+    JUMP     a
+c:
+    COPYFROM [22]
+    OUTBOX  
+    COPYFROM [24]
+    COPYTO   [22]
+d:
+    BUMPDN   24
+    JUMPZ    b
+    COPYTO   23
+e:
+    COPYTO   22
+f:
+    BUMPDN   23
+    JUMPZ    c
+    COPYFROM [22]
+    SUB      [23]
+    JUMPN    f
+    COPYFROM 23
+    JUMP     e
+
+
