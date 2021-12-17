@@ -1,0 +1,18 @@
+
+-- # 30 String Storage Floor --
+-- # Pt-Br: 30 Estoque de Sequências --
+-- Size/Concisão -- 7 / 7
+-- Speed/Velocidade -- 233 / 203
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX   
+b:
+    COPYTO   24
+    COPYFROM [24]
+    JUMPZ    a
+    OUTBOX  
+    BUMPUP   24
+    JUMP     b
+
+
