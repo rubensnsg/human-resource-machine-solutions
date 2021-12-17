@@ -1,0 +1,50 @@
+
+-- # 32 Inventory Report --
+-- # Pt-Br: 32 Relatório de Inventário --
+-- Size/Concisão -- 16 / 16
+-- Speed/Velocidade -- 407 / 393
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    COPYFROM 14
+    COPYTO   19
+    COPYTO   15
+    INBOX   
+    COPYTO   17
+b:
+    COPYFROM [15]
+    JUMPZ    e
+    SUB      17
+    JUMPZ    d
+c:
+    BUMPUP   15
+    JUMP     b
+d:
+    BUMPUP   19
+    JUMP     c
+e:
+    COPYFROM 19
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 15
+eJxzZmBg2KWuryug7mNxROF5UamM1ww1ialbfpvO2AqUYrB0W7fX2nXF7okus7fZuDSsee4s2z7R5W2J
+mcf88LteTT5XA9KdzoekOymGF7nJRk0JLowKnXMiMna+XGTrOpD+Lk+pthZfoeaqEN7G3Niv5SAxu7ol
+kbMqp4d4l84J8yteEhmadzSVOedRQXQWUy1bVugcluyEBWtzspcEFpau+FReugKkhyW7YNn21MNHt6c+
+vsiVznYfJLZ3zpywwzOmh5ycMidMadL6WM3etyVaPRz1V7uDZ2v1JCyo681eojSpepXEzOa1KfOb1yYs
+qlgZudx1GsMq1a6Vq3gbI5e/L41Zej6TZ+H6WP75a2MYRsEoGIEAAGmtcBs;
+
+DEFINE LABEL 17
+eJxTZWBgEE7cfSg5pXcje6Zse1CBu5l/kb/l1Nqv5YbtuUubuuZt1+y9cVat//a5sxP3HS6dPHvbgVln
+M4TmzgpNm9cTsG1hoBX3InMDoDEMN45mLC47l73k6KWMxUcuJy8EibUcYaipPfm36vzpr+X7rr8tAYmt
+MfSY/s/Yd6ayVMZiEH+9/tmMw4pnMwrlr2bLy17NZhgFo2AU0A0AAIPlQp0;
+
+DEFINE LABEL 19
+eJzzYWBguOkbYzfRJdwm0DTchlMn3zVDdX74AeX9yQeUGWqEVUVbdqnr9nLoBsxaZZSw4Ktl9pLnzrlL
+O7xi5zf7eUxvCLCYqBEk1XYp6G/VpaC9Sdf9uvxv+ZR73PEucQcazfDYTaqt20OitcNLoUMsfvLmXcnX
+zoDEvcqW7ZpXFmgFYvOk9QRwpbf7fS3Ncbnc624GEhOcF2MnOE+1K2NOwTKxWYt3rl65eOeSdfO2u22Z
+sKlvb+7S+wdC5xgdcp125xBTremBsxm9+3Yl2u+cFPRxc43XzvnpTtmzspxB5qifSndSPZ3vev70lODz
+p0tXXDzVsf7iqdnbeO7O2Lr5/oRNIDVnzl7P+fTueg6IrXgu3n7b3Ujbh7/MDUD8uPtTt/x7NnXLn+cT
+Nnm+61jPMApGwTADAAz3hsY;
+
