@@ -56,12 +56,12 @@ https://atesgoral.github.io/hrm-solutions/
 | 32  | Inventory Report                 |  Relatório de Inventário              | 16 / 16       | 407 / 393 |
 | 33  | Where's Carol?                   |  Cadê a Carol?                        | ------------- | ---------------- |
 | 34  | Vowel Incinerator                |  Incinerador de Vogais                | 13 / 13       | 323 / 323 |
-| 35  | Duplicate Removal                |  Remoção de Duplicatas                | 6 / 6         | 6 / 6 |
-| 36  | Alphabetizer                     |  Alfabetizador                        | 6 / 6         | 6 / 6 |
+| 35  | Duplicate Removal                |  Remoção de Duplicatas                | 24 / 17       | 167 / 167 |
+| 36  | Alphabetizer                     |  Alfabetizador                        | 51 / 39       | 120 / 109 |
 | 37  | Scavenger Chain                  |  Sequência Codificada                 | 8 / 8         | 63 / 63 |
-| 38  | Digit Exploder                   |  Detona-digitos                       | 6 / 6         | 6 / 6 |
-| 39  | Re-Coordinator                   |  Recoordenador                        | 6 / 6         | 6 / 6 |
-| 40  | Prime Factory                    |  Fábrica de Primos                    | 28 / 28       | 247 / 399 |
-| 41  | Sorting Floor                    |  Andar de Ordenação                   | 20 / 34         | 648 / 714 |
+| 38  | Digit Exploder                   |  Detona-digitos                       | 45 / 30       | 362 / 165 |
+| 39  | Re-Coordinator                   |  Recoordenador                        | 6 / 6         | 73 / 76 By @FireGoblin |
+| 40  | Prime Factory                    |  Fábrica de Primos                    | 28 / 28       | 247 / 399 By @jdashton |
+| 41  | Sorting Floor                    |  Andar de Ordenação                   | 20 / 34         | 648 / 714 By @mrflip |
 | 42  | End Program. Congratulations.    |  Programa Final. Parabéns             | ------------- | ---------------- |
 
