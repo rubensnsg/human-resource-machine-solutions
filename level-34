@@ -1,0 +1,45 @@
+
+-- # 34 Vowel Incinerator --
+-- # Pt-Br: 34 Incinerador de Vogais --
+-- Size/Concisão -- 13 / 13
+-- Speed/Velocidade -- 323 / 323
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+b:
+    COPYFROM 5
+    COPYTO   6
+    INBOX   
+    COPYTO   7
+c:
+    COPYFROM [6]
+    JUMPZ    d
+    SUB      7
+    JUMPZ    b
+    BUMPUP   6
+    JUMP     c
+d:
+    COPYFROM 7
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 6
+eJwLZmBgcLYXV3Gxk1Fzs3U3m2e9PWGB5d8qX4vsJS52U7eYeWzYp+e3+9DR6H2HgUoZBJMeX9ydtGHf
+7iStHr6UtyU8aVvjWbJL3EPz0p28S+PtPcrDbd5Xhts4V8fYTa0tcpvQMD2kv3F7Qn+j6YQJDQkLJjQ0
+rHlRd+7ky9rLp6fVnDsJMpMzw3ZyaJ7T1En1TlNB/C8b673XL4u3L5oab392YpFb5YQmn7retyVXepQ6
+NXsDZp2b0LFecsaJ43vmPrsUufzZpX+rTp/4snHDPpDe8kkrditPXL3nYt++wzV9Yk+vdks/v90u/Rwk
+J3ux3a/qdJd/47EpwS1H5offObQoYsKeo6nPd93Kfbnza7n9zoBZz3ZXrHy0b8Im3WPr9qqc2Xag+MK2
+A/mXl+0Su9a6Lv7e3yrO+/fzOe+fSo+/tzeJ986muLSbU4Jzrrb7SV1u92MYBaNgCAIAFoekfw;
+
+DEFINE LABEL 7
+eJxrYGBgWGRR4h5gVuTGZFjjlaQ5PWSP2qroDNXjacKqFhNT1RMWbNesWMmtXbv6n3HDmh/mGYu/W0TM
+/W7hMGWe9feKedZrY75YzQpdZFHvvdSs3OOPSbkH0EiGXvfcpe3eql2tPm9L7nj3B3Z4pTh2eYZYd3sE
+WoHk9fzmh2sETQkuiegJkI1q8RWPq/ECiXNmVHlGZ2l0s2UlLwTxDTq6/HuaW3xf1k4JdqnaFOdauT/5
+Q8WlrLnl9/Pnlsu2u1fo9s6scp3mUBsw62FzwKx7rR7T9TuFmq92H0292l3j1dyZ7qTfGWMHMutq9/Oi
+Kz2sdTV92Utq+uZt1+q5cVa/8+M12/p3V2dVXjvjXnH4KEid6Ox6b9HZrtNA7ODVwbP/rnaa+ne1bm/w
+aqm24NV/q0JWvS8NWXU2g3HlrFDGlT4WIHUMqzbF/V3dE/BrbY3Xwg0l7p83lbjP2Nbl/3Ln+tjHe5U6
++/baTrbZ7TH9+a6AWSDldw71BzYcL/dQPlviLnux3U/yyqKIzOvnMzOvvy/NvsZUe+KCVJvcBa0euQtO
+U4suRs87cjl36b7rxcv33shduvdG6iKQGQWXnhaqnr6arXHyVm7z0fel7YckWu8eNOgzOuQ6rfmo70zF
+c14zQOoiHicsiHis0R31iKsh6tHRVM77MXbx98wNOO9/EWMYBSMeAAB5+eT2;
+
