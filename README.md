@@ -51,9 +51,9 @@ https://atesgoral.github.io/hrm-solutions/
 | 27  | Midnight Petroleum               |  Petróleo Noturno                     | ------------- | ---------------- |
 | 28  | Three Sort                       |  Trios Ordenados                      | 38 / 34       | 96 / 78 |
 | 29  | Storage Floor                    |  Estoque de Números                   | 5 / 5         | 25 / 25 |
-| 30  | String Storage Floor             |  Estoque de Sequências                | 6 / 6         | 6 / 6 |
-| 31  | String Reverse                   |  Sequência Inversa                    | 6 / 6         | 6 / 6 |
-| 32  | Inventory Report                 |  Relatório de Inventário              | 6 / 6         | 6 / 6 |
+| 30  | String Storage Floor             |  Estoque de Sequências                | 7 / 7         | 233 / 203 |
+| 31  | String Reverse                   |  Sequência Inversa                    | 10 / 11       | 123 / 122 |
+| 32  | Inventory Report                 |  Relatório de Inventário              | 16 / 16       | 407 / 393 |
 | 33  | Where's Carol?                   |  Cadê a Carol?                        | ------------- | ---------------- |
 | 34  | Vowel Incinerator                |  Incinerador de Vogais                | 6 / 6         | 6 / 6 |
 | 35  | Duplicate Removal                |  Remoção de Duplicatas                | 6 / 6         | 6 / 6 |
