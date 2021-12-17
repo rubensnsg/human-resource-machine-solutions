@@ -1,0 +1,126 @@
+
+-- # 36 String Storage Floor --
+-- # Pt-Br: 36 Estoque de Sequências --
+-- Size/Concisão -- 51 / 39
+-- Speed/Velocidade -- 120 / 109
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    COPYFROM 23
+    COPYTO   20
+    COPYTO   18
+    COPYTO   22
+    COPYFROM 24
+    COPYTO   21
+    COPYTO   19
+a:
+    INBOX   
+    JUMPZ    b
+    COPYTO   [20]
+    BUMPUP   20
+    JUMP     a
+b:
+    COPYFROM 20
+    COPYTO   18
+c:
+    INBOX   
+    JUMPZ    d
+    COPYTO   [21]
+    BUMPUP   21
+    JUMP     c
+d:
+    COPYFROM 21
+    COPYTO   19
+    COPYFROM 18
+    COPYTO   17
+    COPYFROM 23
+    COPYTO   20
+    COPYTO   22
+    COPYFROM 24
+    COPYTO   21
+e:
+    COPYFROM [20]
+    SUB      [21]
+    JUMPZ    f
+    JUMP     k
+f:
+    BUMPUP   20
+    SUB      18
+    JUMPZ    g
+    BUMPUP   21
+    SUB      19
+    JUMPZ    l
+    JUMP     e
+g:
+h:
+i:
+j:
+    COPYFROM [22]
+    OUTBOX  
+    BUMPUP   22
+    SUB      17
+    JUMPZ    m
+    JUMP     j
+k:
+    JUMPN    h
+l:
+    COPYFROM 19
+    COPYTO   17
+    COPYFROM 24
+    COPYTO   22
+    JUMP     i
+m:
+
+
+DEFINE LABEL 17
+eJyrZGBgENN4dEVMo33lCc2wZnUd3bgH+uXus4zdHBktbB12Wds6FNilu6o6HgyocXwd2uJsGg/E9TWO
++W0ZNgt6vE1vTe4zeDQFaAxDif2GcyCaO+DmZe4AmZqkgAU5aYFuiWdDw5w1wnXtHkaxWM6Pf20amsRi
+GZuS75aaJhItlsFcKZbR3imU/nmaUHr9Cq5U30PbUw9eAJmzN/DSpMTUS5NAbPsiiJhq46MrlxpXnL3U
+uGFdS7NunWnrxjzT1o5Mp45LQe87Ojw/d6703dqf1lo2NWxx1TTfRQYzN/bZzDGtF1p+KShz+a3Jqct0
+9qUu+3QNZFbvhl/XrTfmHbPeyD3rxcb8tmXb8tNYdprGb9tlGi+7Pz214dDGPMMjpvU9R7ln9RwtO95y
+2OR+wyHXhxC97Ssnbixfnry7fPmEY6bzQWLM5/LTtp7vyBS+dKrw5R2VvbPvLTiz/KHJ/ZBH0ndA8mxP
+LhVZ3GaeWXSl/xSIr3mIxbLn6G/z9ycuGfmdPmUYdGajHkh84kede2DzPjMwuH/xY/r/Xx0szviCgUH0
+76Wg//95EkH8CoZf12sYQx8rcvz/D+KfFPn/n50/9PEczoMXnrO5HtRkOriBgeHcaoZRMArwAABMo8v9
+;
+
+DEFINE LABEL 18
+eJzLYmBgOM+wU19EKJ0VyGT4JBfO/Emug9NB9rbwRbEGjSAeWwcGhpMBILn//3fc+fPtwIcvX359//LF
+5D9IbNk3nX8QObYt/t9M9te+eXQl90XZc7EX89+cffIfrEZZe8f5C9rTT1/QZq7U1l2Q88Lwc5i7yU7/
+bVb5biX2bo7XnfycHrseDJjg9jnsudupwh5XnqrrTnEtx+xmdPNab+zbZHly4hODV1NBZm3133DuW/yK
+s4mp/adA/LuR6a7dUaqxFtFuif3RaUsnx+QdA4nfb0k72tHyaItqI3OlamN6qmZTh2dLc4fn/ZaVvgu6
+ytuj+sIWx/WHLa6bXp7ePtM03mQWc6TJrIMB/bPrPSbPeRTyco7K3LdzZfbMnud7CGSe0PK4I/uX6+zb
+v1xmjtqacnfj9fluTzbUe9hvWunrvTUsedHW+g7/bZ+n+W+T2cOwY8VZkB6l1bcmO2++Ndl768mJIP6l
+g/lupkcvBb0+Xp6edMFkf9alFWfzLh+8AJJruznB6+zVW8FpF8vTl5w+OOH9CZk5z4/Vr2g5/Gqr5iGI
+n0bBKKAFAAA4u8X9;
+
+DEFINE LABEL 19
+eJzLYwCBjca6zDv1X7Onq+4USGfdKxjPclUILMEwWSafzUbmschFsY16AoLprl5cItENTB2ZDAz+OSD5
+///dn237dfFT0I///yF814PhP1acffGx7Hnl60/fVF5BxLV1H13R18s71qonUv1APz/N2fhW8E/TBT7b
+rPLdGpziXExdZ3hPcDsV+NzNL6nF+VaxptPvckGbtNZJhq+mgvQ3R3R4vorJdxNKz3crzOzwPJO10vdC
+9u/wC9kTso5kMFeKZZjWr0/e2X8y5ORGZr+8Y3H+7SfLQttPfosPPSyX5XoQZEZQz6Mt/3s29q3pndHN
+3GdanzShPiNpwkrfoimnCsumprWqTKvveDhrZ77HfNVYnwW3ggMW/g5fvvDTNpBevXUXN91Zt3N95/qT
+Ez9snuD1YyuL5Z9tn82id342E91r61Bx4HNYxQHTetn9zDtB6udt0a1bto2nqubgpSIQf+eFW8FpF1Vj
+225emtR1K23pyzu/t4PEQx5dCvJ5IBJtcHNBjvAlvybuCxO6ws6KzPY77bvI9eSjLa+Py+wBqZtyfIY2
+87l4FRD7+EuT/QyjYBRQCQAAEBLESg;
+
+DEFINE LABEL 20
+eJzTZ2BgYNO7cIpV/8RxFoPVeyIMOtaHGOv2+liujfG0bvf7YJviOMXJxui5s43RYzd3s26PQKuGgLUx
+tUGn0i8Efy2/FMRU2+Ir0frcWatnpbFWD9A4BqmY7xWHYj+VpSYfT1ud2+LrXRpp+7U0xXFFvmjLuuyE
+BZsyWtdtyli9Jyn12aXdSYx3QXocWQuWXRWpWAliT2NlrTMUYK27IcTbqC7O2wgSOzmlelXk8trVILbs
+VNY6luWsdQyjYBSMAooBAChDRzk;
+
+DEFINE LABEL 21
+eJzTY2BgyI19dulwzKro/fE5LnsS4+05MzzNWbI9zVflhVj/KG7y8SmZFLSgdEnk19KzGYuLnxZuT5Vt
+3x+v2wvUytDWPiVYv7PI7XpXkkN1v7+l9HRHE9HZjia75oVY889fH5s1+1FB9qznRWcnekzX76xeZday
+bFdv077DF/pX79m6aNkukBk5V5ftYn68YjeIffCq6YTEu6YTOO8b9LE+MugDiR2Xm7GVTW/GVhD7qLxu
+L5MhxO5RMApGAeUAAPLpTSQ;
+
+DEFINE LABEL 22
+eJxLYWBgyI+5cEo8rmO9eNyU4INx+a4iCYFWgknmBkmp6lrMOepa/kU2Rj+KA62+lRS5fS2dH76gdH/y
+r8K7eVzpDDW7klnr0pJ4G4HGMLBkbzsAohu7MxYbt+UuNW+uXf20YcKmpw0b9lk27Th4r/XAkavduw+p
+923YVzmheW11f8Oa6v5tB05NfnH5+NSP1yRmfry2d86DCzwLdx+KWpa95Pea96U/1k0P+bHO0vDXWh+L
+pWsnBQWvfl/KuLJ0BePKzfsZVh0++mPd6RPzN544/nHzvsNvtvdufLWjetXUHQXLpu7YcfDx3h0Hbx7J
+WKx3tHqV/pEdB/WO7jtcc2rf4YNXkxcK3PKYvu2u67S0m67TDl0JnSN5JXZ+3pXN+4Vv7DvMf3vbgS33
+Fu/keDBjK8eDiLlsD7OXsD1csXvdo2PHIh6fO7n8+bmTP18ePur9Zt3e15+tJk3+ylT74uulLJvvk4Ke
+f/O3nPol3MbzXU/A1zfzw73fbI3//vpvlec73V7397HznT9tO/Di673zT78/uAAKK5lp5R4xS+u9Z22d
+FGR4eEowwygYBXQGAO4T31k;
+
