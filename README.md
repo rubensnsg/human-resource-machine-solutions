@@ -60,8 +60,8 @@ https://atesgoral.github.io/hrm-solutions/
 | 36  | Alphabetizer                     |  Alfabetizador                        | 51 / 39       | 120 / 109 |
 | 37  | Scavenger Chain                  |  Sequência Codificada                 | 8 / 8         | 63 / 63 |
 | 38  | Digit Exploder                   |  Detona-digitos                       | 45 / 30       | 362 / 165 |
-| 39  | Re-Coordinator                   |  Recoordenador                        | 6 / 6         | 73 / 76 By @FireGoblin |
-| 40  | Prime Factory                    |  Fábrica de Primos                    | 28 / 28       | 247 / 399 By @jdashton |
-| 41  | Sorting Floor                    |  Andar de Ordenação                   | 20 / 34         | 648 / 714 By @mrflip |
+| 39  | Re-Coordinator                   |  Recoordenador                        | 6 / 6         | 73 / 76<br />By @FireGoblin |
+| 40  | Prime Factory                    |  Fábrica de Primos                    | 28 / 28       | 247 / 399<br />By @jdashton |
+| 41  | Sorting Floor                    |  Andar de Ordenação                   | 20 / 34         | 648 / 714<br />By @mrflip |
 | 42  | End Program. Congratulations.    |  Programa Final. Parabéns             | ------------- | ---------------- |
 
